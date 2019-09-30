@@ -1,0 +1,17 @@
+--Tiddly list
+--Most lines beginning with -- are ignored. but lines beginning with the following (before the :) sets variables to whats written after
+--replace {} with relevent locations. 
+--See Readme.txt for more
+--Backup:{your backup location}
+--Pickup:{where files are picked up from such as your download folder}
+--Delivery:{C:\Users\Example\Dropbox\TiddlyWiki}
+Tiddly1.html
+Tiddly2.html
+Tiddly3.html
+Tiddly4.html
+--Copylocation:{E:\Users\Example\SecondLocation\TiddlyWiki}
+Tiddly5.html
+essay.html
+--Delivery:{E:\Users\Users\Example\ThirdLocation\Documents\TiddlyWiki}
+Tiddly5.html
+--Endoflist
