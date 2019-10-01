@@ -2,8 +2,9 @@
 A set of scripts designed to update  a Tiddlywiki to proper locations
 
 What: A set of scripts designed to save wiki using the unmodified save feature of Tiddlywiki https://tiddlywiki.com/
-Why: None of the saving solutions I read about were fit for my needs. So I looked into writing one
-How: A user first need to define some hard coded parameters in the Tidcall.bat file
+<br/>Why: None of the saving solutions I read about were fit for my needs. So I looked into writing one
+/
+<br/>How: A user first need to define some hard coded parameters in the Tidcall.bat file
 
 Set TiddlyCodefolder= needs to be set to where your copy of Tidcall.bat and Tidprocess.bat are located. !! It has only been tested with locations not containing a space. !!
 Set TidSupport= needs to be set to where your copy of the tiddlylist.txt is. !! It has only been tested with locations not containing a space. !!
