@@ -42,3 +42,26 @@ These locations can change midflow. For example in the below example tiddly1.htm
 
 This is useful if you have two live locations. I have a wiki for example that has lots of external images. I don't want to fill my dropbox with these images but want to be able to refer to the wiki on my phone. As such the wiki is saved to both a dropbox location and a non-shared location.
 
+To run the update run Tidcall.bat
+
+<br/>        1 file(s) moved.
+<br/>        1 file(s) copied.
+<br/>        1 file(s) moved.
+<br/>Tiddly Updated: essay.html
+<br/>Tiddly1.html copied to {delivery location}
+<br/>Related files in download directory
+<br/>In{download location} location
+<br/>empty.html
+<br/>Updates complete. 1 wikis were updated
+<br/>Press any key to continue . . .
+
+It will report on any HTML files still in pickup locations. 
+<br/>It will report on what Wikis and finally how many wikis were moved. 
+
+If no changes are made the color changes of the script to highlight no files are moved. 
+
+Related files in download directory
+<br/>In {download location}
+<br/>empty.html
+<br/>Updates complete. No wikis were updated
+<br/>Press any key to continue . . .
