@@ -35,6 +35,7 @@ Echo Settings Tiddly: %Tiddly% Picked up from %Pickup% deliver to %Delivery% and
 :CheckAction
 
 If exist %Pickup%\%Tiddly% goto :Action
+Set copyswitch=off
 Goto :End
 
 :action
